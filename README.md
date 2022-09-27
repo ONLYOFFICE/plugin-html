@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-html. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Get your document content as HTML code, modify it, and paste back to the document. 
